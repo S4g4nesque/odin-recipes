@@ -1,0 +1,21 @@
+#title {
+    font-family: helvetica, "times new roman", sans-serif;
+    font-style: oblique;
+    background-color: rgba(180, 111, 189, 0.801);
+    text-align: center;
+}
+
+.group-one {
+    color: rgba(118, 0, 255, 0.1);
+    font-family:'Times New Roman', Times, serif;
+}
+
+.group-two {
+    position: relative;
+}
+
+.group-three {
+    position: right;
+}
+
+.link
